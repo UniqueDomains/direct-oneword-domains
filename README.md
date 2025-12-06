@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .DIRECT one-word domains still available to buy.
 
-This dataset contains 4,419 .DIRECT one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,414 .DIRECT one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.DIRECT one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=direct-oneword-domains&utm_content=description.top) (4,420) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,15 +13,15 @@ If you want to search & filters the complete database of [.DIRECT one word domai
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/direct-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/direct-oneword-domains/blob/main/direct.csv"><b>⬇️ CSV (4.42K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/direct-oneword-domains/blob/main/direct.json"><b>⬇️ JSON (4.42K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/direct-oneword-domains/blob/main/direct.csv"><b>⬇️ CSV (4.41K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/direct-oneword-domains/blob/main/direct.json"><b>⬇️ JSON (4.41K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=direct-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.42K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
 | Domain            | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | ----------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.direct        | available | 70       | 38%    | 3      |           |         |         |
+| aaa.direct        | premium   | 70       | 38%    | 3      |           |         |         |
 | aaron.direct      | available | 88       | 32%    | 5      |           |         |         |
 | abactinal.direct  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.direct      | available | 43       | 2%     | 5      |           |         |         |
@@ -54,8 +54,8 @@ If you want to search & filters the complete database of [.DIRECT one word domai
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/direct-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/direct-oneword-domains/blob/main/direct.csv"><b>⬇️ CSV (4.42K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/direct-oneword-domains/blob/main/direct.json"><b>⬇️ JSON (4.42K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/direct-oneword-domains/blob/main/direct.csv"><b>⬇️ CSV (4.41K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/direct-oneword-domains/blob/main/direct.json"><b>⬇️ JSON (4.41K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=direct-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.42K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
