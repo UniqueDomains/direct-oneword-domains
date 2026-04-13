@@ -69,11 +69,11 @@ print(df.head())
 | power.direct   | premium   | $128.70   | $128.70       | 98             | 62     | 5      | namecheap              |
 | mix.direct     | available | $19.99    | $50.99        | 66             | 45     | 3      | name.com               |
 | easy.direct    | resell    | —         | —             | 128            | 68     | 4      | Spaceship, Inc.        |
-| design.direct  | premium   | $500      | $500          | 108            | 50     | 6      | name.com               |
-| joy.direct     | available | $19.99    | —             | 78             | 41     | 3      | name.com               |
+| design.direct  | premium   | $500      | $500          | 108            | 49     | 6      | name.com               |
+| craft.direct   | available | $19.99    | $50.99        | 70             | 42     | 5      | name.com               |
 | flow.direct    | resell    | —         | —             | 96             | 67     | 4      | Dynadot Inc            |
 | auto.direct    | premium   | $260      | $260          | 68             | 45     | 4      | namecheap              |
-| craft.direct   | available | $19.99    | $50.99        | 70             | 41     | 5      | name.com               |
+| joy.direct     | available | $19.99    | —             | 78             | 41     | 3      | name.com               |
 | home.direct    | resell    | —         | —             | 100            | 62     | 4      | GoDaddy.com, LLC       |
 | map.direct     | premium   | $42.90    | $42.90        | 78             | 42     | 3      | namecheap              |
 | unity.direct   | available | $19.99    | $50.99        | 70             | 40     | 5      | name.com               |
