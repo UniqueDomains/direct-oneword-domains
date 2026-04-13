@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .direct one-word domains from Uniq
 
 **Public extract:** 8,772 rows · **Live catalog:** 8,772 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/direct`  
 **Best for:** founders, investors, studios
 
@@ -67,7 +67,7 @@ print(df.head())
 | startup.direct | available | $19.99    | —             | 82             | 47     | 7      | name.com               |
 | box.direct     | resell    | —         | —             | 68             | 78     | 3      | Go Canada Domains, LLC |
 | power.direct   | premium   | $128.70   | $128.70       | 98             | 62     | 5      | namecheap              |
-| mix.direct     | available | $19.99    | $50.99        | 66             | 44     | 3      | name.com               |
+| mix.direct     | available | $19.99    | $50.99        | 66             | 45     | 3      | name.com               |
 | easy.direct    | resell    | —         | —             | 128            | 68     | 4      | Spaceship, Inc.        |
 | design.direct  | premium   | $500      | $500          | 108            | 50     | 6      | name.com               |
 | joy.direct     | available | $19.99    | —             | 78             | 41     | 3      | name.com               |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DIRECT One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DIRECT One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
