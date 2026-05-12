@@ -64,7 +64,7 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar           |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------- |
-| Iam.direct      | available | $53.98    | —             | 90             | 47     | 4      | namecheap           |
+| Iam.direct      | available | $53.98    | —             | 90             | 49     | 4      | namecheap           |
 | agents.direct   | resell    | —         | —             | 56             | 50     | 6      | Dynadot Inc         |
 | payments.direct | premium   | $123.75   | —             | 58             | 33     | 8      | name.com            |
 | spaces.direct   | available | $19.99    | —             | 54             | 30     | 6      | name.com            |
