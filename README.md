@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .direct one-word domains fr
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **11,593 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,593 domains · **Median ask:** $27.99 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,593 domains · **Median ask:** $24.98 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/direct`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/direct`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .DIRECT one-word domai
 
 ### Files
 
-- `direct.csv` — public CSV extract (1,000 rows)
-- `direct.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `direct.csv`, public CSV extract (1,000 rows)
+- `direct.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar           |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------- |
-| Iam.direct      | available | $53.98    | —             | 90             | 49     | 4      | namecheap           |
-| agents.direct   | resell    | —         | —             | 56             | 50     | 6      | Dynadot Inc         |
-| payments.direct | premium   | $123.75   | —             | 58             | 33     | 8      | name.com            |
-| spaces.direct   | available | $19.99    | —             | 54             | 30     | 6      | name.com            |
-| network.direct  | resell    | —         | —             | 72             | 47     | 7      | Porkbun LLC         |
-| toys.direct     | premium   | $118.80   | $118.80       | 60             | 24     | 4      | namesilo            |
-| popup.direct    | available | $19.99    | —             | 84             | 28     | 6      | name.com            |
-| coins.direct    | resell    | —         | —             | 56             | 41     | 5      | Dynadot Inc         |
-| coupons.direct  | premium   | $118.80   | $118.80       | 52             | 24     | 7      | namesilo            |
-| pages.direct    | available | $19.99    | —             | 52             | 28     | 5      | name.com            |
-| Trex.direct     | resell    | —         | —             | 80             | 24     | 5      | GoDaddy.com, LLC    |
-| holidays.direct | premium   | $500      | —             | 78             | 23     | 8      | name.com            |
-| KFC.direct      | available | $53.98    | —             | 74             | 27     | 3      | namecheap           |
-| users.direct    | resell    | —         | —             | 54             | 18     | 5      | GoDaddy.com, LLC    |
-| signs.direct    | premium   | $123.75   | —             | 64             | 22     | 5      | name.com            |
-| systems.direct  | available | $19.99    | —             | 46             | 27     | 7      | name.com            |
-| pins.direct     | resell    | —         | —             | 68             | 15     | 4      | united-domains GmbH |
-| herbs.direct    | premium   | $123.75   | —             | 62             | 22     | 5      | name.com            |
-| Keith.direct    | available | $53.98    | —             | 66             | 25     | 5      | namecheap           |
-| laptops.direct  | premium   | $500      | —             | 56             | 8      | 7      | name.com            |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| half.direct    | available | $19.99    | —             | high           | low    | 4      | name.com          |
+| correct.direct | available | $19.99    | $50.99        | high           | low    | 7      | name.com          |
+| hello.direct   | available | —         | —             | high           | low    | 5      | —                 |
+| easy.direct    | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.   |
+| jesus.direct   | resell    | —         | —             | high           | medium | 5      | Porkbun LLC       |
+| what.direct    | available | $19.99    | —             | high           | medium | 4      | name.com          |
+| axe.direct     | available | $19.99    | —             | medium         | low    | 3      | name.com          |
+| fin.direct     | resell    | —         | —             | medium         | low    | 3      | Dynadot Inc       |
+| gal.direct     | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo          |
+| boy.direct     | available | $19.99    | —             | medium         | low    | 3      | name.com          |
+| tea.direct     | resell    | —         | —             | high           | low    | 3      | Edomains LLC      |
+| mom.direct     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo          |
+| due.direct     | available | $19.99    | —             | high           | low    | 3      | name.com          |
+| base.direct    | resell    | —         | —             | medium         | medium | 4      | Porkbun LLC       |
+| NYC.direct     | premium   | $242      | $242          | high           | medium | 3      | namesilo          |
+| end.direct     | available | $19.99    | —             | high           | low    | 3      | name.com          |
+| code.direct    | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 45 |
+| asia.direct    | premium   | $854      | $854          | high           | low    | 4      | namesilo          |
+| how.direct     | available | $19.99    | —             | high           | low    | 3      | name.com          |
+| data.direct    | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .direct domains. The names range from broad dictionary words such as people.direct and relief.direct to more specific or unusual terms such as grandfather.direct and pointy.direct. That creates a wide spread in commercial relevance. For founders, the strongest options are usually the words that are instantly understood, easy to say, and closely matched to a direct-response use case. For investors, the better candidates are typically the words with broad intent and cleaner resale logic. Median ask is 27.995194, so the key question is less entry price and more whether the word has durable meaning, strong recall, and low trademark friction.
+This selection covers 11,593 one-word domain names on the .direct extension, drawn from common, easy-to-spell words such as feel, correct, sorry, great, quiet, and one. With a median ask near $25, most of these names are priced within reach of a single purchase rather than requiring negotiation. Because every entry is a single dictionary or everyday word, the list favors clarity and memorability over invented terms — useful whether you're shortlisting a name for a new brand or comparing entries for resale potential. Word length, common usage, and spelling simplicity are the main signals to weigh when comparing names within this set.
 
-- Prefer clear words with obvious commercial meaning
-- Check if the word fits the direct tone of .direct
-- Avoid trademark-heavy terms such as velcro.direct
-- Use memorability to separate broad words from weak ones
+- 11,593 one-word .direct domains in this selection
+- Median ask near $25 across the full list
+- Everyday words like half.direct and out.direct
+- Updated daily for current pricing and availability
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DIRECT One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DIRECT One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
