@@ -1,10 +1,10 @@
-# Available .DIRECT One-Word Domains (16,584)
+# Available .DIRECT One-Word Domains (16,832)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-16%2C584%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-16%2C832%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .direct one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **16,584 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **16,832 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 16,584 domains · **Median ask:** $20.83 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 16,832 domains · **Median ask:** $20.75 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-08-20
+**Last updated:** 2026-08-21
 **Canonical page:** `https://unique.domains/domains/tld/direct`
 **Best for:** founders, investors, studios
 
@@ -66,6 +66,10 @@ print(df.head())
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
 | half.direct    | available | $19.99    | —             | high           | low    | 4      | name.com          |
 | correct.direct | available | $19.99    | $50.99        | high           | low    | 7      | name.com          |
+| hello.direct   | available | —         | —             | high           | low    | 5      | —                 |
+| easy.direct    | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.   |
+| jesus.direct   | resell    | —         | —             | high           | medium | 5      | Porkbun LLC       |
+| what.direct    | available | $19.99    | —             | high           | medium | 4      | name.com          |
 | axe.direct     | available | $19.99    | —             | medium         | low    | 3      | name.com          |
 | fin.direct     | resell    | —         | —             | low            | low    | 3      | Dynadot Inc       |
 | gal.direct     | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo          |
@@ -80,10 +84,6 @@ print(df.head())
 | asia.direct    | premium   | $854      | $854          | high           | low    | 4      | namesilo          |
 | cxl.direct     | available | $14.98    | $53.98        | low            | low    | 3      | namecheap         |
 | data.direct    | resell    | —         | —             | medium         | medium | 4      | Sav.com, LLC      |
-| asian.direct   | premium   | $123.75   | —             | high           | low    | 5      | name.com          |
-| due.direct     | available | $19.99    | —             | high           | low    | 3      | name.com          |
-| easy.direct    | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.   |
-| cheap.direct   | premium   | $118.80   | $118.80       | high           | low    | 5      | namesilo          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 16,584 live domains                        |
+| 1,000-row public sample | 16,832 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DIRECT One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DIRECT One-Word Domains*. Version 2026-08-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
