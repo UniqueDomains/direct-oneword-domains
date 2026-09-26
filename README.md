@@ -1,10 +1,10 @@
-# Available .DIRECT One-Word Domains (31,358)
+# Available .DIRECT One-Word Domains (21,478)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-31%2C358%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-21%2C478%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .direct one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **31,358 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **21,478 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 31,358 domains · **Median ask:** $18.54 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 21,478 domains · **Median ask:** $19.38 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-26
 **Canonical page:** `https://unique.domains/domains/tld/direct`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar           |
-| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------- |
-| axe.direct  | available | $19.99    | —             | high           | low    | 3      | name.com            |
-| fin.direct  | resell    | —         | —             | high           | low    | 3      | Dynadot Inc         |
-| ass.direct  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo            |
-| boy.direct  | available | $19.99    | —             | high           | low    | 3      | name.com            |
-| pin.direct  | resell    | —         | —             | high           | low    | 3      | united-domains GmbH |
-| gal.direct  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo            |
-| btw.direct  | available | $19.99    | —             | high           | low    | 3      | name.com            |
-| bali.direct | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC    |
-| map.direct  | premium   | $42.90    | $42.90        | high           | medium | 3      | namecheap           |
-| clv.direct  | available | $14.98    | $53.98        | high           | low    | 3      | namecheap           |
-| mist.direct | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC    |
-| mom.direct  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo            |
-| clx.direct  | available | $14.98    | $53.98        | high           | low    | 3      | namecheap           |
-| sale.direct | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 48   |
-| nyc.direct  | premium   | $242      | $242          | high           | medium | 3      | namesilo            |
-| cxl.direct  | available | $14.98    | $53.98        | high           | low    | 3      | namecheap           |
-| save.direct | resell    | —         | —             | high           | low    | 4      | Porkbun LLC         |
-| tax.direct  | premium   | $242      | $242          | high           | medium | 3      | namesilo            |
-| egg.direct  | available | $19.99    | —             | high           | low    | 3      | name.com            |
-| talk.direct | resell    | —         | —             | high           | low    | 4      | UM DOMAINS PTE. LTD |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| aba.direct   | available | $14.98    | $53.98        | high           | low    | 3      | namecheap                                                 |
+| use.direct   | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                                          |
+| gum.direct   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                  |
+| asp.direct   | available | $17.99    | $41.99        | high           | low    | 3      | namesilo                                                  |
+| deep.direct  | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC                                              |
+| nyc.direct   | premium   | $242      | $242          | high           | medium | 3      | namesilo                                                  |
+| bpm.direct   | available | $14.98    | $53.98        | high           | low    | 3      | namecheap                                                 |
+| wire.direct  | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 11                                         |
+| spy.direct   | premium   | $242      | $242          | high           | low    | 3      | namesilo                                                  |
+| bro.direct   | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
+| agent.direct | resell    | —         | —             | high           | medium | 5      | Global Domains International, Inc. DBA DomainCostClub.com |
+| ohio.direct  | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo                                                  |
+| coy.direct   | available | $17.99    | $41.99        | high           | low    | 3      | namesilo                                                  |
+| dream.direct | resell    | —         | —             | high           | medium | 5      | Dynadot Inc                                               |
+| blink.direct | premium   | $1,040    | $1,040        | high           | medium | 5      | namecheap                                                 |
+| fad.direct   | available | $14.98    | $53.98        | high           | low    | 3      | namecheap                                                 |
+| icons.direct | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC                                          |
+| promo.direct | premium   | $46.20    | $46.20        | high           | low    | 5      | namecheap                                                 |
+| fee.direct   | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
+| radio.direct | resell    | —         | —             | high           | medium | 5      | Dynadot Inc                                               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 31,358 live domains                        |
+| 1,000-row public sample | 21,478 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 1 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DIRECT One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DIRECT One-Word Domains*. Version 2026-09-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
